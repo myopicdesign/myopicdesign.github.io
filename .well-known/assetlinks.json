@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.myopicdesign.twa",
+      "sha256_cert_fingerprints": [
+        "F5:88:27:C1:CD:AA:43:BE:3A:41:A9:79:07:E6:32:24:6F:C3:85:E4:3E:13:6D:0F:9B:55:07:A2:D2:39:2B:9D"
+      ]
+    }
+  }
+]
+
+
